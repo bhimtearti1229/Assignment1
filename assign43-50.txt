@@ -1,0 +1,85 @@
+43. Check Armstrong Number for 3-digit number
+
+import java.util.Scanner;
+public class Main{
+
+    public static void main(String[] args) {
+
+        int num, number, temp, total = 0;
+        System.out.println("Ënter 3 Digit Number");
+        Scanner scanner = new Scanner(System.in);
+        num = scanner.nextInt();
+        scanner.close();
+        number = num;
+
+        for( ;number!=0;number /= 10)
+        {
+            temp = number % 10;
+            total = total + temp*temp*temp;
+        }
+
+        if(total == num)
+            System.out.println(num + " is an Armstrong number");
+        else
+            System.out.println(num + " is not an Armstrong number");
+    }
+}
+
+Output- 
+Ënter 3 Digit Number
+126
+126 is not an Armstrong number
+
+Ënter 3 Digit Number
+153
+153 is an Armstrong number
+
+
+** Process exited - Return Code: 0 **
+
+
+
+
+44. Check Armstrong number for n digits
+
+import java.util.Scanner;
+public class Main{
+
+    public static void main(String[] args) {
+
+        int number = 456, originalNumber, remainder, result = 0, n = 0;
+
+        originalNumber = number;
+
+        for (;originalNumber != 0; originalNumber /= 10, ++n);
+
+        originalNumber = number;
+
+        for (;originalNumber != 0; originalNumber /= 10)
+        {
+            remainder = originalNumber % 10;
+            result += Math.pow(remainder, n);
+        }
+
+        if(result == number)
+            System.out.println(number + " is an Armstrong number.");
+        else
+            System.out.println(number + " is not an Armstrong number.");
+    }
+}
+
+Output- 
+456 is not an Armstrong number.
+
+
+** Process exited - Return Code: 0 **
+
+
+
+
+45. Armstrong Numbers Between Two Integers
+46. Prime Numbers Between Two Integers
+47. Armstrong Numbers Between Two Integers
+48. Factors of a Positive Integer
+49. Factors of Negative Number
+50. Simple Calculator using Java switch Statemen

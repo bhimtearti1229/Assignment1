@@ -1,0 +1,71 @@
+11. Java Program to Check Alphabet using ternary operator
+
+A is an alphabet.
+
+12. Java Program to Check Alphabet using isAlphabetic() Method
+a is an alphabet.
+
+13. Sum of Natural Numbers using for loop
+Enter a limit : 100
+Enter a limit : 100 
+
+Sum = 5050
+
+14. Sum of Natural Numbers using while loop
+Enter a limit : 100 
+
+Sum = 5050
+
+
+15. Find Factorial of a number using for loop
+Enter a number : 10
+
+Factorial of 10 = 3628800
+
+16. Find Factorial of a number using BigInteger
+Enter a number : 30
+
+Factorial of 30 = 265252859812191058636308480000000
+
+17. Find Factorial of a number using while loop
+Enter a number : 10
+
+Factorial of 10 = 3628800
+
+18. Generate Multiplication Table using for loop
+Enter a number : 5
+5*1=5 5 * 2 = 10 5 * 3 = 15 5 * 4 = 20 5 * 5 = 25 5 * 6 = 30 5 * 7 = 35 5 * 8 = 40 5 * 9 = 45 5 * 10 = 50
+
+
+19. Generate Multiplication Table using while loop
+Enter a number : 5
+5*1=5 5 * 2 = 10 5 * 3 = 15 5 * 4 = 20 5 * 5 = 25 5 * 6 = 30 5 * 7 = 35 5 * 8 = 40 5 * 9 = 45 5 * 10 = 50
+
+20. Display Fibonacci Series Using for Loop
+Enter the limit : 10
+
+Fibonacci Series till 10 terms: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,
+
+21. Display Fibonacci series using while loo
+Enter the limit : 10
+
+Fibonacci Series till 10 terms: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,
+
+22. Display Fibonacci series up to a given number
+Enter the limit : 25
+
+Fibonacci Series till 10 terms: 0, 1, 1, 2, 3, 5, 8, 13, 21,
+
+
+
+
+
+
+
+
+
+
+
+
+
+biginit will be used

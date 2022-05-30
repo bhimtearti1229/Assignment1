@@ -1,0 +1,55 @@
+23. Find GCD of two numbers using for loop and if statement
+Enter a number : 81
+Enter a number 153
+GCD of 81 and 153 is 9
+
+24. Find GCD of two numbers using while loop and if else statement
+Enter a number : 81
+Enter a number 153
+GCD of 81 and 153 is 9
+
+25. GCD for both positive and negative numbers both positive and negative
+Enter a number : 81
+Enter a number 153
+GCD of 81 and 153 is 9
+
+Enter a number : 81
+Enter a number -153
+GCD of 81 and -153 is 9
+
+26. LCM using while Loop and if Statement
+Enter a number : 72
+Enter a number : 120
+LCM is 360
+
+27. Calculate LCM using GCD
+Enter a number : 72E
+nter a number : 120
+LCM is 360
+
+
+28. Display uppercase alphabet using for loop
+All Uppercase Letters Are:ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+29. Display lowercase alphabet using for loop
+All Lowercase Letters Are:
+abcdefghijklmnopqrstuvwxyz
+
+
+30. Count Number of Digits in an Integer using while loop
+Enter a number : 9812
+Number of digits: 4
+Enter a number : 00009812
+Number of digits: 4
+
+32. Reverse a Number using a while loop in Java
+Enter a number : 00009812
+Number of digits: 4
+Enter a number : 9812
+Reverse Number is : 2189
+
+
+33. Reverse a number using a for loop in Java
+Enter a number : 9812
+Reverse Number is : 2189
+

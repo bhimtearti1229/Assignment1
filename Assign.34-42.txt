@@ -1,0 +1,85 @@
+34. Calculate power of a number using a while loop
+O/P : 
+Enter Base : 4
+Enter Power : 2
+4^2 = 16
+
+
+35. Calculate the power of a number using a for loop
+O/P : 
+Enter Base : 4
+Enter Power : 2
+4^2 = 16
+
+
+36. Calculate the power of a number using pow() function
+
+O/P : 
+Enter Base : 4
+Enter Power : 2
+4^2 = 16
+
+37. Compute Power of Negative Number
+O/P : 
+Enter Base : -4
+Enter Power : 2
+4^2 = 16
+
+
+Enter Base : -4
+Enter Power : 3
+4^2 = -64
+
+38. Java Program to Check Palindrome String
+
+O/P : 
+Enter a String : ABCBA
+It is a pallindrom String
+AbcBA
+Not pallindrom
+
+39. Java Program to Check Palindrome Number
+OP : 
+Enter a number : 1221
+It is a pallindrom number
+
+40. Program to Check Prime Number using a for loop
+
+
+O/P : 
+Enter a number : 9 
+9 is not prime
+
+Enter a number : 7
+7 is prime
+
+41. Program to Check Prime Number using a while loop
+O/P : 
+Enter a number : 9 
+9 is not prime
+
+Enter a number : 7
+7 is prime
+
+42. Display Prime Numbers Between Two Intervals
+
+O/p : 
+Enter Starting NUmber : 1
+Enter Ending NUmber : 12
+
+Prime numbers:
+3, 5, 7, 11
+Special : Ask User to input a number and check if its 
+prime or not and you ask for the number till user enters a prime number.
+
+O/P : 
+Enter a number : 4
+4 is not prime 
+Enter a number : 6
+6 is not prime 
+Enter a number : 8
+8 is not prime 
+Enter a number : 11
+11 is prime
+
+
